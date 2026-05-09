@@ -18,7 +18,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=malakyousof&label=✦+visitors&color=ff2d78&style=flat-square)](https://github.com/malakyousof)
 &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/◈_portfolio-visit-ffa8c5?style=flat-square)]([https://malakyousof.github.io/](https://github.com/malakyousof/malakyousof.portfolio))
+[![Portfolio](https://img.shields.io/badge/◈_portfolio-repo-ffa8c5?style=flat-square)](https://github.com/malakyousof/malakyousof.portfolio)
 &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/👤_LinkedIn-connect-ff2d78?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malak-yousof154/)
 &nbsp;&nbsp;
@@ -30,7 +30,7 @@
 
 ## `> about`
 
-🎓 **Data Science** @ Canadian International College (CIC) — GPA **3.72**
+🎓 **Data Science** @ Canadian International College (CIC) — 
 
 📊 Specializing in **Data Analytics** · pursuing **Microsoft PL-300** (Power BI) certification
 

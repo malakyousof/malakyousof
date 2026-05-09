@@ -94,7 +94,7 @@
 
 <div align="center">
 
-### ✨ Turning data into stories, one pixel at a time ✨
+### ✨ Turning data into stories ✨
 
 `// thanks for stopping by · let's build something great · have a good one 💖`
 
